@@ -1,6 +1,6 @@
 {
-  "name": "SakuraBot-MD",
-  "version": "0.0.9",
+  "name": "AshitakaBot-MD",
+  "version": "1.0.0",
   "description": "Super WhatsApp Bot",
   "main": "index.js",
   "type": "module",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevAlexJs/SakuraBot-MD.git"
+    "url": "git+https://github.com/KatashiFukushima/AshitakaBot-MD.git"
   },
   "keywords": [
     "whatsapp",
@@ -25,9 +25,9 @@
   "author": "OfcKing",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DevAlexJs/SakuraBot-MD/issues"
+    "url": "https://github.com/KatashiFukushima/AshitakaBot-MD/issues"
   },
-  "homepage": "https://github.com/DevAlexJs/SakuraBot-MD#readme",
+  "homepage": "https://github.com/KatashiFukushima/AshitakaBot-MD#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "github:shiroko-devs/star-baileys",
     "@bochilteam/scraper": "^4.2.4",
