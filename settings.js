@@ -6,13 +6,13 @@ global.botNumber = ""
 
 global.owner = ["51974399615"]
 
-global.botname = '🕸 KatashiBot-MD'
-global.namebot = '🥗 Sakura Bot'
-global.bot = 'SakuraBot'
-global.packname = '🐸 𝗦𝗮𝗸𝘂𝗿𝗮𝗕𝗼𝘁-𝗠𝗗'
-global.wm = '🌿 𝙎𝙖𝙠𝙪𝙧𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '🥗 DevAlexJs'
-global.dev = '© Pᴏᴡᴇʀᴇᴅ Bʏ DᴇᴠAʟᴇxJs.'
+global.botname = '🏹 AshitakaBot-MD'
+global.namebot = '🏹 Ashitaka Bot'
+global.bot = 'AshitakaBot'
+global.packname = '🏹 𝗔𝘀𝗵𝗶𝘁𝗮𝗸𝗮𝗕𝗼𝘁-𝗠𝗗'
+global.wm = '🌿 𝘼𝙨𝙝𝙞𝙩𝙖𝙠𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.author = '🥷 KatashiFukushima'
+global.dev = '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋᴀᴛᴀꜱʜɪꜰᴜᴋᴜꜱʜɪᴍᴀ.'
 
 global.banner = 'https://stellarwa.xyz/files/1757377941018.jpeg'
 global.icon = 'https://stellarwa.xyz/files/1757378468505.jpeg'
@@ -26,23 +26,23 @@ key: 'Diamond'
 }
 
 global.my = {
-  ch: '120363420992828502@newsletter',
-  name: '₊· ͟͟͞͞꒰ ✩ 𝐒𝐭𝐞𝐥𝐥𝐚𝐫 𝐖𝐚𝐁𝐨𝐭 - 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⏤͟͟͞͞✿',
+  ch: '120363178367665133@newsletter',
+  name: '💫👁️‍🗨️ 【Katashi Fukushima】 🥷🏻🚀',
 
-  ch2: '120363401477412280@newsletter', 
-  name2: '𝖠𝗂 𝖫𝗎𝗋𝗎𝗌 - 𝖭𝗒𝗆 | ¡𝗡𝗲𝘄𝘀!',
+  ch2: '120363315379486244@newsletter', 
+  name2: '*ੈ✩‧₊˚ 『SpaceNight Team』 *ੈ✩‧₊˚',
 
-  ch3: '120363203805910750@newsletter', 
-  name3: '⚶ ⊹ Max Evolution𝄢 ⊹',
+  ch: '120363178367665133@newsletter',
+  name: '💫👁️‍🗨️ 【Katashi Fukushima】 🥷🏻🚀',
 
-  ch4: '120363419837575209@newsletter',
-  name4: '⚶ ⊹ Night ⚡︎ Light - Team 𝄢 ⊹',
+  ch: '120363178367665133@newsletter',
+  name: '💫👁️‍🗨️ 【Katashi Fukushima】 🥷🏻🚀',
 
-  ch5: '120363404511074294@newsletter',
-  name5: '₊· ͟͟͞͞꒰ ✩ 𝐒𝐡𝐚𝐝𝐨𝐰 𝐖𝐚𝐁𝐨𝐭 - 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⏤͟͟͞͞✿',
+  ch: '120363178367665133@newsletter',
+  name: '💫👁️‍🗨️ 【Katashi Fukushima】 🥷🏻🚀',
 
-  ch6: '120363418959013227@newsletter',
-  name6: '𓆩⚝𓆪Alya 𓍯bot𓆩⚝𓆪 • Channel ⟡'
+  ch: '120363178367665133@newsletter',
+  name: '💫👁️‍🗨️ 【Katashi Fukushima】 🥷🏻🚀'
 }
 
 const file = fileURLToPath(import.meta.url)
